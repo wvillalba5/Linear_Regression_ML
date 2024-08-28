@@ -1,0 +1,8 @@
+{
+    "window_title" : "Basic Machine Learning",
+    "Calculate_btn_icon"    : ["assets", "imagenes","Blue258aad", "airplay.svg"],
+    "Btn_Open_file_icon": ["assets","imagenes","Blue258aad","folder-plus.svg"],
+    "exit_icon" : ["assets","imagenes","Blue258aad","x-square.svg"],
+    "deleteGrapg_icon" : ["assets","imagenes","Blue258aad","trash-2.svg"]
+    
+    }
